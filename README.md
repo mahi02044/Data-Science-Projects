@@ -43,7 +43,3 @@ using Python and data visualization.
 2. Upload `Sample - Superstore.csv` to Colab
 3. Run each cell from top to bottom
 
-## 👤 Author
-Your Name  
-[LinkedIn Profile Link]  
-[Kaggle Profile Link]
